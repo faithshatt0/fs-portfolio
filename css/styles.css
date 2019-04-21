@@ -1,0 +1,22 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #333333;
+}
+
+h1 {
+  color: #333333;
+  position: absolute;
+  top: 25%;
+  padding-left: 40px;
+}
+
+#header-container {
+  position: relative;
+  height: 20%;
+  background-color: #e0d5c7;
+}
+
+#painted-image {
+  width:100%;
+}
